@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![nikolapeja6 GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolapeja6&show_icons=true&theme=default&count_private=true&hide=prs) <br>
+
 <!--
 **nikolapeja6/nikolapeja6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
